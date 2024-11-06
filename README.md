@@ -66,8 +66,4 @@ git clone <repository_url>
 - *Commit Messages:* Keep your commit messages clear and concise.
 - *Final Submission:* Ensure that all changes are correctly pushed to GitHub. 
 
-### 🔗 Resources
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Docs - Branching and Merging](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
-
 Good luck, and may the best coder win! 🥇✨
